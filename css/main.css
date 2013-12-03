@@ -1,0 +1,35 @@
+
+
+
+
+
+
+/*-----Color chart------*/
+
+font-family: 'Alegreya SC', serif;
+font-family: 'Istok Web', sans-serif;
+font-family: 'Berkshire Swash', cursive;
+
+title{
+	font-family: 'Berkshire Swash', cursive;
+ 	font-weight: bold;
+}
+h1, h2, h3{
+ 	font-family: 'Berkshire Swash', cursive;
+ 	font-weight: bold;
+}
+
+p{
+	font-family: 'Istok Web', sans-serif;
+	font-weight: normal;
+}
+
+li{
+	font-family: 'Istok Web', sans-serif;
+	font-weight: normal;
+}
+
+.desc{
+	font-family: 'Alegreya SC', serif;
+	font-weight: bold;
+}
